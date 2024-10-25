@@ -43,12 +43,3 @@ I'm always interested in connecting with fellow developers and discussing Androi
 <div align="center">
 *"First, solve the problem. Then, write the code." – John Johnson*
 </div>
-
-
-
-
-
-
-
-
-
