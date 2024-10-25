@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hello, I'm Alpesh Raval 
-### Senior Android Developer & Team Lead
+# 👋 Hello, I'm Sahil Chauhan 
+### Android Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpesh-raval/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chauhan-b1481720b/)
 
 </div>
 
 ## 🚀 About Me
-Passionate Senior Android Developer and Team Lead with extensive experience in crafting robust, user-centric mobile applications. Skilled in building scalable, efficient solutions with the latest Android technologies and best practices, driving innovation from concept to deployment. Known for leading teams to deliver high-quality products and mentoring developers to reach their full potential.
+Passionate Android Developer and Team Lead with extensive experience in crafting robust, user-centric mobile applications. Skilled in building scalable, efficient solutions with the latest Android technologies and best practices, driving innovation from concept to deployment. Known for leading teams to deliver high-quality products and mentoring developers to reach their full potential.
 
 ## 💻 Technical Expertise
 
