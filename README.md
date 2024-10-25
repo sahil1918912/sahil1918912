@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 # :wave: Hello, I'm Alpesh Raval
 ### Senior Android Developer & Team Lead
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpesh-raval/)
