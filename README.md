@@ -39,7 +39,7 @@ val skills = mapOf(
 
 I'm always interested in connecting with fellow developers and discussing Android development:
 
-- 💼 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/sahil-chauhan-b1481720b/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sahil-chauhan-b1481720b/))
 - 📧 Email: sahilchauhank6428@gmail.com
 
 
