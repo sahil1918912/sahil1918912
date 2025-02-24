@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-Passionate Android Developer and Team Lead with extensive experience in crafting robust, user-centric mobile applications. Skilled in building scalable, efficient solutions with the latest Android technologies and best practices, driving innovation from concept to deployment. Known for leading teams to deliver high-quality products and mentoring developers to reach their full potential.
+Passionate Android Developer with extensive experience in crafting robust, user-centric mobile applications. Skilled in building scalable, efficient solutions with the latest Android technologies and best practices, driving innovation from concept to deployment. Known for leading teams to deliver high-quality products and mentoring developers to reach their full potential.
 
 ## 💻 Technical Expertise
 
